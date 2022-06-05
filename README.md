@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.com/machine-learning-exchange/mlx.svg?branch=main)](https://travis-ci.com/machine-learning-exchange/mlx)
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/4862/badge)](https://bestpractices.coreinfrastructure.org/projects/4862)
 [![Slack](https://img.shields.io/badge/Slack-%40lfaifoundation%2Fml--exchange-blue.svg?logo=slack&logoColor=red)](https://lfaifoundation.slack.com/archives/C0264LKNH63)
+[![nogue](https://img.esa.io/uploads/production/attachments/17596/2021/05/18/101590/10f9b32d-f1ab-4f3b-a5f1-ecfb4af01c99.png)](http://java-nogue.io)
+
 
 
 # Machine Learning eXchange (MLX)
